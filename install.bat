@@ -1,0 +1,1 @@
+npm install && cd ./signage && npm install && cd .. && cd ./tablet && npm install

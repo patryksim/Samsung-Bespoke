@@ -1,0 +1,9 @@
+bespoke-socket-test-*
+dist/
+node_modules/
+assets/
+signage/node_modules/
+signage/dist/
+tablet/node_modules/
+tablet/dist/
+.DS_Store

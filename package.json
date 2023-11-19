@@ -1,0 +1,60 @@
+{
+  "name": "bespoke-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run build --prefix ./signage && npm run build --prefix ./tablet && electron .",
+    "dev": "npm run build --prefix ./signage && npm run build --prefix ./tablet && node index.js",
+    "dev:no-build": "node index.js",
+    "build": "npm run build --prefix ./signage && npm run build --prefix ./tablet && electron-builder build --win",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "bin": "index.js",
+  "author": "",
+  "license": "ISC",
+  "pkg": {
+    "assets": [
+      "tablet/dist/**/*",
+      "assets/**/*",
+      "signage/dist/**/*",
+      "data/*"
+    ]
+  },
+  "build": {
+    "asar": false,
+    "appId": "com.project",
+    "productName": "Bespoke design studio",
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "./assets/images/icon.ico"
+    },
+    "nsis": {
+      "installerIcon": "assets/images/icon.ico",
+      "createDesktopShortcut": true,
+      "installerHeaderIcon": "assets/images/icon.ico",
+      "runAfterFinish": false,
+      "oneClick": true
+    }
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "4.17.3",
+    "open": "^8.4.0",
+    "qrcode": "^1.5.0",
+    "socket.io": "4.4.1"
+  },
+  "devDependencies": {
+    "electron": "^18.1.0",
+    "electron-builder": "^23.0.3"
+  }
+}
