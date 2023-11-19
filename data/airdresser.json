@@ -1,0 +1,32 @@
+{
+  "DF9000RM": {
+    "title": "product.airDresser600",
+    "PJT": "DF9000RM",
+    "icon": "/images/samples/DF9000RM.png",
+    "name": "product.airDresser",
+    "defaultImage": "/images/samples/AD_600.png",
+    "items": [
+      { "PJT": "DF9000RM", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "modelNumber": "DF10A9500HG/EU" },
+      { "PJT": "DF9000RM", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "modelNumber": "DF10A9500WA/EF" },
+      { "PJT": "DF9000RM", "CMF": "Crystal Mirror", "colorName": "colors.crystalMirror", "modelNumber": "DF10A9500CG/SP" },
+      { "PJT": "DF9000RM", "CMF": "Glam Pink", "colorName": "colors.glamPink", "modelNumber": "DF10A9500WZ/SE" },
+      { "PJT": "DF9000RM", "CMF": "Glam White", "colorName": "colors.glamWhite", "modelNumber": "DF10A9500WG/SE" },
+      { "PJT": "DF9000RM", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "modelNumber": "DF10A9500EG/LP" }
+    ]
+  },
+  "DF8000NM": {
+    "title": "product.airDresser450",
+    "PJT": "DF8000NM",
+    "icon": "/images/samples/DF8000NM.png",
+    "name": "product.airDresser",
+    "defaultImage": "/images/samples/AD_450.png",
+    "items": [
+      { "PJT": "DF8000NM", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "modelNumber": "DF60A8500HG/EU" },
+      { "PJT": "DF8000NM", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "modelNumber": "DF60A8500WA/EF" },
+      { "PJT": "DF8000NM", "CMF": "Crystal Mirror", "colorName": "colors.crystalMirror", "modelNumber": "DF60A8500CG/SP" },
+      { "PJT": "DF8000NM", "CMF": "Glam Pink", "colorName": "colors.glamPink", "modelNumber": "DF60A8500WZ/SE" },
+      { "PJT": "DF8000NM", "CMF": "Glam White", "colorName": "colors.glamWhite", "modelNumber": "DF60A8500WG/SE" },
+      { "PJT": "DF8000NM", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "modelNumber": "DF60A8500EG/LP" }
+    ]
+  }
+}

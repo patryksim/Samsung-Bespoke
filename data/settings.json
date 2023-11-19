@@ -1,0 +1,19 @@
+{
+  "refreshMinutes": 5,
+  "useSmartThings": false,
+  "useBespoke": true,
+  "locale": "mx",
+  "useProduct": {
+    "fridge": true,
+    "oven": true,
+    "mwo": true,
+    "induction": true,
+    "dishwasher": true,
+    "jetbot": false,
+    "jet": false,
+    "airdresser": false,
+    "washer": false,
+    "dryer": false,
+    "airpurifier": false
+  }
+}

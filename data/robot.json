@@ -1,0 +1,35 @@
+{
+  "VR9500T": {
+    "title": "product.jetBotAI",
+    "PJT": "VR9500T",
+    "icon": "/images/samples/VR9500T.png",
+    "name": "product.jetbot",
+    "defaultImage": "/images/samples/JetbotAI.png",
+    "items": [
+      { "PJT": "VR9500T", "CMF": "Silver", "colorName": "colors.silver", "modelNumber": "VR50T95735W/GE" },
+      { "PJT": "VR9500T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "modelNumber": "VR50T95735B/WA" }
+    ]
+  },
+  "VR8500T": {
+    "title": "product.jetBotPlus",
+    "PJT": "VR8500T",
+    "icon": "/images/samples/VR8500T.png",
+    "name": "product.jetbot",
+    "defaultImage": "/images/samples/JetbotPlus.png",
+    "items": [
+      { "PJT": "VR8500T", "CMF": "Silver", "colorName": "colors.silver", "modelNumber": "VR30T85313W/GE" },
+      { "PJT": "VR8500T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "modelNumber": "VR30T85313B/WA" }
+    ]
+  },
+  "VR8000T": {
+    "title": "product.jetBot",
+    "PJT": "VR8000T",
+    "icon": "/images/samples/VR8000T.png",
+    "name": "product.jetbot",
+    "defaultImage": "/images/samples/Jetbot.png",
+    "items": [
+      { "PJT": "VR8000T", "CMF": "Silver", "colorName": "colors.silver", "modelNumber": "VR30T80313W/GE" },
+      { "PJT": "VR8000T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "modelNumber": "VR30T80313B/WA" }
+    ]
+  }
+}

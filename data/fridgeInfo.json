@@ -1,0 +1,62 @@
+{
+  "FDR": {
+    "title": "product.fdr",
+    "icon": "/images/samples/step2-4door-img.png",
+    "src": "/images/samples/pc-bespoke-4door-img-large.png",
+    "doorLength": 4,
+    "size": 120,
+    "model": "RF9000",
+    "fridgeModelNumber": "RF65A9676AP/EU",
+    "itemKey": "3yfmj7f3lb3"
+  },
+  "BMF_2M": {
+    "title": "product.bmf203",
+    "icon": "/images/samples/step2-2door-2.03-img.png",
+    "src": "/images/samples/pc-bespoke-2door-img.png",
+    "doorLength": 2,
+    "size": 60,
+    "model": "RB7300",
+    "fridgeModelNumber": "RB38A6B5CAP/EF",
+    "itemKey": "vawvwenx3ms"
+  },
+  "BMF_1M": {
+    "title": "product.bmf185",
+    "icon": "/images/samples/step2-2door-img.png",
+    "src": "/images/samples/pc-bespoke-2door-img.png",
+    "doorLength": 2,
+    "size": 60,
+    "model": "RB7300",
+    "fridgeModelNumber": "RB34A6B0EAP/EF",
+    "itemKey": "xp1x8znys08"
+  },
+  "1Door_Fridge": {
+    "title": "product.oneDoorFridge",
+    "icon": "/images/samples/step2-1door-img.png",
+    "src": "/images/samples/pc-bespoke-1door-img.png",
+    "doorLength": 1,
+    "size": 60,
+    "model": "RR7000",
+    "fridgeModelNumber": "RR39A74A3AP/EF",
+    "itemKey": "fs2j50m5th5"
+  },
+  "1Door_Freezer": {
+    "title": "product.oneDoorFreezer",
+    "icon": "/images/samples/step2-1door-img.png",
+    "src": "/images/samples/pc-bespoke-1door-img.png",
+    "doorLength": 1,
+    "size": 60,
+    "model": "RR7000",
+    "fridgeModelNumber": "RZ32A74A5AP/EF",
+    "itemKey": "z6oim0ephb9"
+  },
+  "1Door_Slim": {
+    "title": "product.oneDoorSlim",
+    "icon": "/images/samples/step2-1door-rr5000-img.png",
+    "src": "/images/samples/pc-bespoke-1door-slim-img.png",
+    "doorLength": 1,
+    "size": 60,
+    "model": "RR5000",
+    "fridgeModelNumber": "RR25A5410AP/EF",
+    "itemKey": "b5t9jxi5zuv"
+  }
+}

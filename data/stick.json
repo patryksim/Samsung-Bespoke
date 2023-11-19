@@ -1,0 +1,14 @@
+{
+  "VS9500AL": {
+    "title": "",
+    "PJT": "VS9500AL",
+    "icon": "/images/samples/VS9500AL.png",
+    "name": "product.jet",
+    "defaultImage": "/images/samples/VC_Stick.png",
+    "items": [
+      { "PJT": "VS9500AL", "CMF": "Midnight Blue", "colorName": "colors.midnightBlue", "modelNumber": "VS20A95973B/SW" },
+      { "PJT": "VS9500AL", "CMF": "Misty White", "colorName": "colors.mistyWhite", "modelNumber": "VS20A95843W/SW" },
+      { "PJT": "VS9500AL", "CMF": "Woody Green", "colorName": "colors.woodyGreen", "modelNumber": "VS20A95943N/WA" }
+    ]
+  }
+}

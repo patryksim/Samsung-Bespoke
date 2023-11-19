@@ -1,0 +1,15 @@
+{
+  "NZ8500BM": {
+    "title": "Induction",
+    "subtitle": "",
+    "PJT": "NZ8500BM",
+    "icon": "/images/samples/NZ8500BM.png",
+    "defaultImage": "/images/samples/Induction.png",
+    "name": "Induction",
+    "items": [
+      { "PJT": "NZ8500BM", "CMF": "Clean Beige", "colorName": "colors.cleanBeige", "modelNumber": "NZ64B5067YY/U2" },
+      { "PJT": "NZ8500BM", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "modelNumber": "NZ64B5067YZ/U1" },
+      { "PJT": "NZ8500BM", "CMF": "Pure White", "colorName": "colors.pureWhite", "modelNumber": "NZ64B5067YH/U1" }
+    ]
+  }
+}

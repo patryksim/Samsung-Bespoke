@@ -1,0 +1,35 @@
+{
+  "NQ7000B": {
+    "title": "",
+    "subtitle": "",
+    "PJT": "NQ7000B",
+    "icon": "/images/samples/NQ7000B.png",
+    "defaultImage": "/images/samples/Oven_s.png",
+    "seq": 0,
+    "multiple": true,
+    "name": "product.oven",
+    "items": [
+      { "PJT": "NQ7000B", "CMF": "Clean Beige", "colorName": "colors.cleanBeige", "modelNumber": "NQ5B6753CAE/U1" },
+      { "PJT": "NQ7000B", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "modelNumber": "NQ5B6753CAN/U1" },
+      { "PJT": "NQ7000B", "CMF": "Clean White", "colorName": "colors.cleanWhite", "modelNumber": "NQ5B4313GBW/U2" },
+      { "PJT": "NQ7000B", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "modelNumber": "NQ5B7993AAA/U1" }
+    ]
+  },
+  "NV7000B": {
+    "title": "",
+    "subtitle": "",
+    "PJT": "NV7000B",
+    "icon": "/images/samples/NV7000B.png",
+    "defaultImage": "/images/samples/Oven_b.png",
+    "panelready": "",
+    "seq": 1,
+    "multiple": true,
+    "name": "product.oven",
+    "items": [
+      { "PJT": "NV7000B", "CMF": "Clean Beige", "colorName": "colors.cleanBeige", "modelNumber": "NV7B6665IAE/U2" },
+      { "PJT": "NV7000B", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "modelNumber": "NV7B6675CAN/U1" },
+      { "PJT": "NV7000B", "CMF": "Clean White", "colorName": "colors.cleanWhite", "modelNumber": "NV7B4240VBW/U5" },
+      { "PJT": "NV7000B", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "modelNumber": "NV7B7997AAA/U1" }
+    ]
+  }
+}

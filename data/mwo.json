@@ -1,0 +1,45 @@
+{
+  "MW5000T_23": {
+    "title": "product.grill23",
+    "PJT": "MW5000T",
+    "icon": "/images/samples/MW5000T.png",
+    "name": "product.mwo",
+    "defaultImage": "/images/samples/MWO_s.png",
+    "items": [
+      { "PJT": "MW5000T", "CMF": "Pure White", "colorName": "colors.pureWhite", "modelNumber": "MS23T5018AW/EE", "size": 23  },
+      { "PJT": "MW5000T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "modelNumber": "MS23T5018AP/EE", "size": 23  },
+      { "PJT": "MW5000T", "CMF": "Clean Mint", "colorName": "colors.cleanMint", "modelNumber": "MS23T5018AN/EE", "size": 23  },
+      { "PJT": "MW5000T", "CMF": "Clean Gray", "colorName": "colors.cleanGray", "modelNumber": "MS23T5018AG/EE", "size": 23  },
+      { "PJT": "MW5000T", "CMF": "Clean Charcoal", "colorName": "colors.cleanCharcoal", "modelNumber": "MS23T5018AC/EE", "size": 23  },
+      { "PJT": "MW5000T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "modelNumber": "MS23T5018AK/EE", "size": 23  }
+    ]
+  },
+  "MW5000T_30": {
+    "title": "product.grill30",
+    "PJT": "MW5000T",
+    "icon": "/images/samples/MW5000T.png",
+    "name": "product.mwo",
+    "defaultImage": "/images/samples/MWO_s.png",
+    "items": [
+      { "PJT": "MW5000T", "CMF": "Pure White", "colorName": "colors.pureWhite", "modelNumber": "MG30T5018AW/BW", "size": 30  },
+      { "PJT": "MW5000T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "modelNumber": "MS30T5018AP/BW", "size": 30  },
+      { "PJT": "MW5000T", "CMF": "Clean Mint", "colorName": "colors.cleanMint", "modelNumber": "MG30T5018AN/BW", "size": 30  },
+      { "PJT": "MW5000T", "CMF": "Clean Gray", "colorName": "colors.cleanGray", "modelNumber": "MG30T5018AG/BW", "size": 30  },
+      { "PJT": "MW5000T", "CMF": "Clean Charcoal", "colorName": "colors.cleanCharcoal", "modelNumber": "MG30T5018AC/GC", "size": 30  },
+      { "PJT": "MW5000T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "modelNumber": "MG30T5018AK/BW", "size": 30  }
+    ]
+  },
+  "MW8000R": {
+    "title": "product.convection",
+    "PJT": "MW8000R",
+    "icon": "/images/samples/MW8000R.png",
+    "name": "product.mwo",
+    "defaultImage": "/images/samples/MWO_b.png",
+    "items": [
+      { "PJT": "MW8000R", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "modelNumber": "MC35R8088LP/LI", "size": 35 },
+      { "PJT": "MW8000R", "CMF": "Clean Mint", "colorName": "colors.cleanMint", "modelNumber": "MC35R8088LN/BW", "size": 35 },
+      { "PJT": "MW8000R", "CMF": "Clean Gray", "colorName": "colors.cleanGray", "modelNumber": "MC35R8058CG/EN", "size": 35 },
+      { "PJT": "MW8000R", "CMF": "Clean Charcoal", "colorName": "colors.cleanCharcoal", "modelNumber": "MC35R8088CC/EN", "size": 35 }
+    ]
+  }
+}

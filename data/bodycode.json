@@ -1,0 +1,28 @@
+{
+  "door1": {
+    "RR7000": {
+      "Freezer": {
+        "fridgeModelNumber": "RZ32A74A5AP/EF"
+      },
+      "Fridge": {
+        "fridgeModelNumber": "RR39A74A3AP/EF"
+      }
+    },
+    "RR5000": {
+      "fridgeModelNumber": "RR25A5410AP/EF"
+    }
+  },
+  "door2": {
+    "RB7300T_34": {
+      "fridgeModelNumber": "RB34A6B0EAP/EF"
+    },
+    "RB7300T_38": {
+      "fridgeModelNumber": "RB38A6B5CAP/EF"
+    }
+  },
+  "door4": {
+    "RF9000": {
+      "fridgeModelNumber": "RF65A9676AP/EU"
+    }
+  }
+}

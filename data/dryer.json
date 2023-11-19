@@ -1,0 +1,64 @@
+{
+  "TEMPERED": {
+    "title": "product.temperedGlassAI",
+    "icon": "/images/samples/TEMPERED.png",
+    "name": "product.dryer",
+    "defaultImage": "/images/samples/Dryer_Tempered.png",
+    "items": {
+      "Color": [
+        { "PJT": "DV9400B", "CMF": "Blue White", "colorName": "Morning Blue/White", "modelNumber": "DV90BB9445GMS2" },
+        { "PJT": "DV9400B", "CMF": "Silver White", "colorName": "Silver/White", "modelNumber": "DV90BB9445GHS2" },
+        { "PJT": "DV9400B", "CMF": "Black Black", "colorName": "Clean Black/Black", "modelNumber": "DV90BB9445GBS2" },
+        { "PJT": "DV9400B", "CMF": "Black White", "colorName": "Clean Black/White", "modelNumber": "DV90BB9445GES2" }
+      ],
+      "Panel": [
+        { "PJT": "DV9400B", "CMF": "Clean Black", "colorName": "Black/Black", "modelNumber": "DV90BB7445GBS2" },
+        { "PJT": "DV9400B", "CMF": "Clean White", "colorName": "Black/White", "modelNumber": "DV90BB7445GWS2" }
+      ]
+    }
+  },
+  "CARVED_BLACK_AI": {
+    "title": "product.carvedBlackAI",
+    "icon": "/images/samples/CARVED_BLACK_AI.png",
+    "defaultImage": "/images/samples/Dryer_AI.png",
+    "namespace": "AI",
+    "name": "product.dryer",
+    "items": [
+      { "PJT": "DV5000B", "CMF": "Black Black", "colorName": "colors.blackBlack", "modelNumber": "DV91BB5245ABS2" },
+      { "PJT": "DV5000B", "CMF": "Black White", "colorName": "colors.blackWhite", "modelNumber": "DV90BB5245AES2" },
+      { "PJT": "DV5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "DV90BB5245AWS2" }
+    ]
+  },
+  "CARVED_WHITE_AI": {
+    "title": "product.carvedWhiteAI",
+    "icon": "/images/samples/CARVED_WHITE_AI.png",
+    "defaultImage": "/images/samples/Dryer_AI_White.png",
+    "namespace": "AI-W",
+    "name": "product.dryer",
+    "items": [
+      { "PJT": "DV5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "DV90BB5245TWS2" }
+    ]
+  },
+  "CARVED_BLACK_LED": {
+    "title": "product.carvedBlackLED",
+    "icon": "/images/samples/CARVED_BLACK_LED.png",
+    "defaultImage": "/images/samples/Dryer_AI.png",
+    "namespace": "LED",
+    "name": "product.dryer",
+    "items": [
+      { "PJT": "DV5000B", "CMF": "Black Black", "colorName": "colors.blackBlack", "modelNumber": "DV90BBA245ABEE" },
+      { "PJT": "DV5000B", "CMF": "Black White", "colorName": "colors.blackWhite", "modelNumber": "DV90BBA245AEEE" },
+      { "PJT": "DV5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "DV90BBA245AWEE" }
+    ]
+  },
+  "CARVED_WHITE_LED": {
+    "title": "product.carvedWhiteLED",
+    "icon": "/images/samples/CARVED_WHITE_LED.png",
+    "defaultImage": "/images/samples/Dryer_LED_White.png",
+    "namespace": "LED-W",
+    "name": "product.dryer",
+    "items": [
+      { "PJT": "DV5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "DV90BBA245TWEE" }
+    ]
+  }
+}

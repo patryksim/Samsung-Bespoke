@@ -1,0 +1,36 @@
+{
+  "DW": {
+    "title": "Dish Washer (Free Standing)",
+    "subtitle": "",
+    "PJT": "DW8500AM",
+    "icon": "/images/samples/DW_F.png",
+    "defaultImage": "/images/samples/DW.png",
+    "name": "product.dishWasher",
+    "items": {
+      "common.monoTone": [
+        { "PJT": "DW8500AM", "CMF": "Black Metal", "colorName": "colors.blackMetal", "modelNumber": "DW60A8050FB/EU" }
+      ]
+    }
+  },
+  "DW_BUILT_IN": {
+    "title": "Dish Washer (Built In)",
+    "subtitle": "",
+    "PJT": "DW8500AM",
+    "icon": "/images/samples/DW_U.png",
+    "defaultImage": "/images/samples/DW_un.png",
+    "name": "product.dishWasher",
+    "items": {
+      "common.monoTone": [
+        { "PJT": "DW8500AM", "CMF": "Black Metal", "colorName": "colors.blackMetal", "modelNumber": "DW60A8050UB/EU" },
+        { "PJT": "DW8500AM", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "modelNumber": "DW60A8050U1/EU" }
+      ],
+      "common.freeSelection": [
+        { "PJT": "DW8700B", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "modelNumber": "DW60BB890UAPET" },
+        { "PJT": "DW8700B", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "modelNumber": "DW60BB890UAPET" },
+        { "PJT": "DW8700B", "CMF": "Clean White", "colorName": "colors.cleanWhite", "modelNumber": "DW60BB890UAPET" },
+        { "PJT": "DW8700B", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "modelNumber": "DW60BB890UAPET" },
+        { "PJT": "DW8700B", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "modelNumber": "DW60BB890UAPET" }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "AX9500R": {
+    "title": "product.airPurifier70",
+    "PJT": "AX9500R",
+    "icon": "/images/samples/AX9500R.png",
+    "name": "product.airPurifier",
+    "defaultImage": "/images/samples/ACR_70.png",
+    "items": [
+      { "PJT": "AX9500R", "CMF": "Beige", "colorName": "colors.beige", "modelNumber": "AX70A9550GE/SA" },
+      { "PJT": "AX9500R", "CMF": "Gray", "colorName": "colors.gray", "modelNumber": "AX70B9550GG/SA" },
+      { "PJT": "AX9500R", "CMF": "Green", "colorName": "colors.green", "modelNumber": "AX70B9550GN/SA" }
+    ]
+  },
+  "AX9500N": {
+    "title": "product.airPurifier53",
+    "PJT": "AX9500N",
+    "icon": "/images/samples/AX9500N.png",
+    "name": "product.airPurifier",
+    "defaultImage": "/images/samples/ACR_53.png",
+    "items": [
+      { "PJT": "AX9500N", "CMF": "Beige", "colorName": "colors.beige", "modelNumber": "AX53A9310GE/SE" },
+      { "PJT": "AX9500N", "CMF": "Gray", "colorName": "colors.gray", "modelNumber": "AX53A9310GG/SE" },
+      { "PJT": "AX9500N", "CMF": "Green", "colorName": "colors.green", "modelNumber": "AX350A9350N/AA" }
+    ]
+  }
+}

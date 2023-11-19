@@ -1,0 +1,312 @@
+{
+  "FDR": {
+    "twotone": [],
+    "monotone": [
+      {"PJT": "RF9000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RF65A967622/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RF65A96763K/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RF65A967612/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RF65A96764K/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RF65A967618/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RF65A967641/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RF65A967613/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RF65A967610/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RF65A967639/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RF65A967638/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RF65A967648/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RF65A9676CE/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RF65A9636CE/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RF65A9676CW/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RF65A9676S9/EF", "Type": "Fixed"},
+      {"PJT": "RF9000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RF65A9676B1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RF9000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-F18DUU22GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-F18DUU12GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-F18DUU3KGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-F18DUU4KGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-F18DUU18GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-F18DUU41GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-F18DUU13GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-F18DUU10GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-F18DUU39GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-F18DUU38GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-F18DUU48GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-F18DUUCEGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-F18DUU36GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-F18DUUCWGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-F18DUUS9GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-F18DUUB1GG", "Type": "Panel"}
+      ],
+      "bottom": [
+        {"PJT": "RF9000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-F18DBB22GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-F18DBB12GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-F18DBB3KGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-F18DBB4KGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-F18DBB18GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-F18DBB41GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-F18DBB13GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-F18DBB10GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-F18DBB39GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-F18DBB38GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-F18DBB48GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-F18DBBCEGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-F18DBB36GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-F18DBBCWGG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-F18DBBS9GG", "Type": "Panel"},
+        {"PJT": "RF9000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-F18DBBB1GG", "Type": "Panel"}
+      ]
+    }
+  },
+  "BMF_1M": {
+    "twotone": [
+      {"PJT": "RB7300T", "CMF": "Satin Skyblue + Clean White", "colorName": "colors.satinSkyblueCleanWhite", "ModelCode": "RB34A7B5C48WEF", "Type": "TwoTone"},
+      {"PJT": "RB7300T", "CMF": "Clean White + Clean Peach", "colorName": "colors.cleanWhiteCleanPeach", "ModelCode": "RB34A6B2E3P/EU", "Type": "TwoTone"},
+      {"PJT": "RB7300T", "CMF": "Clean White + Clean Vanilla", "colorName": "colors.cleanWhiteCleanVanilla", "ModelCode": "RB34A7B5C3V/EF", "Type": "TwoTone"},
+      {"PJT": "RB7300T", "CMF": "Clean White + Satin Skyblue", "colorName": "colors.cleanWhiteSatinSkyblue", "ModelCode": "RB34A6B2E3S/EU", "Type": "TwoTone"}
+    ],
+    "monotone": [
+      {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RB34A7B5E22/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RB34A7B5E12/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RB34A7B5D3K/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RB34A7B5D4K/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RL34A6B0D18/EG", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RL34A6B0D41/EG", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RL34A6B0D13/EG", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RL34A6B0D10/EG", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RB34A6B2E39/EU", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RB34A6B2E38/EU", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RB34A6B2E48/EU", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RB34A7B5DCE/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RB34A7B5ECE/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RB34A7B5ECW/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RB34A7B5DS9/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RB34A7B5EB1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-B23EUU22GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-B23EUU12GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-B23EUU3KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-B23EUU4KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-B23EUU18GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-B23EUU41GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-B23EUU35GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-B23EUU10GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-B23EUU39GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-B23EUU37GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-B23EUU48GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-B23EUUCEGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-B23EUU36GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-B23EUUCWGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-B23EUUS9GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-B23EUUB1GG", "Type": "Panel"}
+      ],
+      "bottom": [
+        {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-B23EBB22GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-B23EBB12GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-B23EBB3KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-B23EBB4KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-B23EBB18GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-B23EBB41GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-B23EBB35GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-B23EBB10GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-B23EBB39GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-B23EBB37GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-B23EBB48GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-B23EBBCEGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-B23EBB36GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-B23EBBCWGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-B23EBBS9GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-B23EBBB1GG", "Type": "Panel"}
+      ]
+    }
+  },
+  "BMF_2M": {
+    "twotone": [
+      {"PJT": "RB7300T", "CMF": "Satin Skyblue + Clean White", "colorName": "colors.satinSkyblueCleanWhite", "ModelCode": "RB38A7B6348WEF", "Type": "TwoTone"}
+    ],
+    "monotone": [
+      {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RB38A7B5322/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RB38A6B2F12/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RB38A6B3F3K/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RB38A6B3F4K/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RB38A6B3F18/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RB38A7B5D41/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RB38A6B2F13/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RB38A6B2F10/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RB38A7B5D39/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RB38A7B5D38/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RB38A7B5E48/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RB38A7B5ECE/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RB38A7B10CE/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RB38A6B1DCW/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RB38A7B63S9/EF", "Type": "Fixed"},
+      {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RB38A7B63B1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-B23EUT22GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-B23EUT12GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-B23EUT3KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-B23EUT4KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-B23EUT18GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-B23EUT41GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-B23EUT35GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-B23EUT10GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-B23EUT39GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-B23EUT37GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-B23EUT48GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-B23EUTCEGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-B23EUT36GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-B23EUTCWGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-B23EUTS9GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-B23EUTB1GG", "Type": "Panel"}
+      ],
+      "bottom": [
+        {"PJT": "RB7300T", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-B23EBB22GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-B23EBB12GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-B23EBB3KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-B23EBB4KGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-B23EBB18GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-B23EBB41GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-B23EBB35GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-B23EBB10GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-B23EBB39GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-B23EBB37GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-B23EBB48GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-B23EBBCEGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-B23EBB36GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-B23EBBCWGG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-B23EBBS9GG", "Type": "Panel"},
+        {"PJT": "RB7300T", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-B23EBBB1GG", "Type": "Panel"}
+      ]
+    }
+  },
+  "1Door_Fridge": {
+    "twotone": [],
+    "monotone": [
+      {"PJT": "RR7000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RR39A746322/EF", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RR39A74A312/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RR39A74A313/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RR39A74A314/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RR39A74A315/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RR39A74A341/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RR39A74A316/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RR39A74A310/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RR39A746339/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RR39A746338/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RR39A746348/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RR39A74A3CE/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RR39A74A4CE/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RR39A74A301/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RR39A7463S9/EF", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RR39A7463B1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RR7000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-R23DAA22GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-R23DAA12GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-R23DAA13GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-R23DAA14GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-R23DAA15GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-R23DAA41GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-R23DAA16GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-R23DAA10GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-R23DAA39GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-R23DAA38GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-R23DAA48GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-R23DAACEGG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-R23DAAA4GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-R23DAA01GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-R23DAAS9GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-R23DAAB1GG", "Type": "Panel"}
+      ],
+      "bottom": []
+    }
+  },
+  "1Door_Freezer": {
+    "twotone": [],
+    "monotone": [
+      {"PJT": "RR7000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RZ32A748522/EF", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RZ32A74A512/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RZ32A74A513/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RZ32A74A514/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RZ32A74A515/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RZ32A74A541/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RZ32A74A516/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RZ32A74A510/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RZ32A748539/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RZ32A748538/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RZ32A748548/EG", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RZ32A74A5CE/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RZ32A74A4CE/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RZ32A74A501/EU", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RZ32A7485S9/EF", "Type": "Fixed"},
+      {"PJT": "RR7000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RZ32A7485B1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RR7000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-R23DAA22GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-R23DAA12GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-R23DAA13GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-R23DAA14GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-R23DAA15GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-R23DAA41GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-R23DAA16GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-R23DAA10GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-R23DAA39GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-R23DAA38GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-R23DAA48GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-R23DAACEGG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-R23DAAA4GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-R23DAA01GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-R23DAAS9GG", "Type": "Panel"},
+        {"PJT": "RR7000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-R23DAAB1GG", "Type": "Panel"}
+      ],
+      "bottom": []
+    }
+  },
+  "1Door_Slim": {
+    "twotone": [],
+    "monotone": [
+      {"PJT": "RR5000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RR25A547022/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RR25A547012/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RR25A547013/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RR25A547014/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RR25A547015/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RR25A547041/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RR25A547016/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RR25A547010/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RR25A547039/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RR25A547038/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RR25A547048/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RR25A5470CE/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RR25A5470A4/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RR25A547001/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RR25A5470S9/EF", "Type": "Fixed"},
+      {"PJT": "RR5000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RR25A5470B1/EF", "Type": "Fixed"}
+    ],
+    "panelready": {
+      "top": [
+        {"PJT": "RR5000", "CMF": "Clean Black", "colorName": "colors.cleanBlack", "ModelCode": "RA-M17DAA22GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Clean White", "colorName": "colors.cleanWhite", "ModelCode": "RA-M17DAA12GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Clean Peach", "colorName": "colors.cleanPeach", "ModelCode": "RA-M17DAA13GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Clean Pink", "colorName": "colors.cleanPink", "ModelCode": "RA-M17DAA14GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Clean Vanilla", "colorName": "colors.cleanVanilla", "ModelCode": "RA-M17DAA15GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Clean Navy", "colorName": "colors.cleanNavy", "ModelCode": "RA-M17DAA41GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Glam White", "colorName": "colors.glamWhite", "ModelCode": "RA-M17DAA16GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Glam Pink", "colorName": "colors.glamPink", "ModelCode": "RA-M17DAA10GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Satin Beige", "colorName": "colors.satinBeige", "ModelCode": "RA-M17DAA39GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Satin Gray", "colorName": "colors.satinGray", "ModelCode": "RA-M17DAA38GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Satin Skyblue", "colorName": "colors.satinSkyblue", "ModelCode": "RA-M17DAA48GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Cotta Beige", "colorName": "colors.cottaBeige", "ModelCode": "RA-M17DAACEGG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Cotta Charcoal", "colorName": "colors.cottaCharcoal", "ModelCode": "RA-M17DAAA4GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Cotta White", "colorName": "colors.cottaWhite", "ModelCode": "RA-M17DAA01GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Silver Metal", "colorName": "colors.silverMetal", "ModelCode": "RA-M17DAAS9GG", "Type": "Panel"},
+        {"PJT": "RR5000", "CMF": "Black Metal", "colorName": "colors.blackMetal", "ModelCode": "RA-M17DAAB1GG", "Type": "Panel"}
+      ],
+      "bottom": []
+    }
+  }
+}

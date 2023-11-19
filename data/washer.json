@@ -1,0 +1,65 @@
+{
+  "TEMPERED": {
+    "title": "product.temperedGlassAI",
+    "icon": "/images/samples/TEMPERED.png",
+    "name": "product.washer",
+    "defaultImage": "/images/samples/Washer_Tempered.png",
+    "items": {
+      "common.control": [
+        { "PJT": "WW9000B", "CMF": "Black Black", "colorName": "colors.cleanBlackBlack", "modelNumber": "WW11BB944AGBS2" },
+        { "PJT": "WW9000B", "CMF": "Black White", "colorName": "colors.cleanBlackWhite", "modelNumber": "WW11BB904AGES2" },
+        { "PJT": "WW9000B", "CMF": "Blue White", "colorName": "colors.morningBlueWhite", "modelNumber": "WW11BB944AGMS2" },
+        { "PJT": "WW9000B", "CMF": "Silver White", "colorName": "colors.silverWhite", "modelNumber": "WW11BB944AGHS2" }
+      ],
+      "common.body": [
+        { "PJT": "WW7000B", "CMF": "Black Black", "colorName": "colors.blackBlack", "modelNumber": "WW11BB744AGBS5" },
+        { "PJT": "WW7000B", "CMF": "Black White", "colorName": "colors.blackWhite", "modelNumber": "WW11BB744AGES2" },
+        { "PJT": "WW7000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "WW11BB744AGWS2" }
+      ]
+    }
+  },
+  "CARVED_BLACK_AI": {
+    "title": "product.carvedBlackAI",
+    "icon": "/images/samples/CARVED_BLACK_AI.png",
+    "defaultImage": "/images/samples/Washer_AI.png",
+    "namespace": "AI",
+    "name": "product.washer",
+    "items": [
+      { "PJT": "WW5000B", "CMF": "Black Black", "colorName": "colors.blackBlack", "modelNumber": "WW11BB534AABS2" },
+      { "PJT": "WW5000B", "CMF": "Black White", "colorName": "colors.blackWhite", "modelNumber": "WW11BB534AAES2" },
+      { "PJT": "WW5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "WW11BB534DAWS3" }
+    ]    
+  },
+  "CARVED_BLACK_LED": {
+    "title": "product.carvedBlackLED",
+    "icon": "/images/samples/CARVED_BLACK_LED.png",
+    "defaultImage": "/images/samples/Washer_LED.png",
+    "namespace": "LED",
+    "name": "product.washer",
+    "items": [
+      { "PJT": "WW5000B", "CMF": "Black White", "colorName": "colors.blackWhite", "modelNumber": "WW11BBA046AELE" },
+      { "PJT": "WW5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "WW11BBA046AELE" },
+      { "PJT": "WW5000B", "CMF": "Black Black", "colorName": "colors.blackBlack", "modelNumber": "WW11BBA046AWLE" }
+    ]    
+  },
+  "CARVED_WHITE_AI": {
+    "title": "product.carvedWhiteAI",
+    "icon": "/images/samples/CARVED_WHITE_AI.png",
+    "defaultImage": "/images/samples/Washer_AI_White.png",
+    "namespace": "AI-W",
+    "name": "product.washer",
+    "items": [
+      { "PJT": "WW5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "WW11BB504ATWS2" }
+    ]    
+  },
+  "CARVED_WHITE_LED": {
+    "title": "product.carvedWhiteLED",
+    "icon": "/images/samples/CARVED_WHITE_LED.png",
+    "defaultImage": "/images/samples/Washer_LED_White.png",
+    "namespace": "LED-W",
+    "name": "product.washer",
+    "items": [
+      { "PJT": "WW5000B", "CMF": "White White", "colorName": "colors.whiteWhite", "modelNumber": "WW11BBA046TWEC" }
+    ]    
+  }
+}
