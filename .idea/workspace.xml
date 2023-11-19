@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6ec1eba-091b-4ca1-a318-e9e7ee263201" name="Changes" comment="oven 추가시 오류나는 부분 수정">
+      <change beforePath="$PROJECT_DIR$/tablet/src/composables/useProduct.js" beforeDir="false" afterPath="$PROJECT_DIR$/tablet/src/composables/useProduct.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DWktaxgE5Y6QGHYpaKZ0NsyprB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/project/prj-bespoke-desktop/tablet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\prj-bespoke-desktop\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\prj-bespoke-desktop\assets\images\samples" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6ec1eba-091b-4ca1-a318-e9e7ee263201" name="Changes" comment="" />
+      <created>1660822449308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660822449308</updated>
+      <workItem from="1660822469090" duration="4000" />
+      <workItem from="1660824378776" duration="2117000" />
+      <workItem from="1660981869008" duration="11277000" />
+      <workItem from="1661047517396" duration="4537000" />
+    </task>
+    <task id="LOCAL-00001" summary="건조기 데이터 추가">
+      <created>1661007428276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661007428276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="건조기 이미지 변경">
+      <created>1661007527241</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661007527241</updated>
+    </task>
+    <task id="LOCAL-00003" summary="이상한 코드 수정">
+      <created>1661007770217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661007770217</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dryer 단독 선택시 선택 안되도록 수정">
+      <created>1661008454625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661008454625</updated>
+    </task>
+    <task id="LOCAL-00005" summary="oven 추가시 오류나는 부분 수정">
+      <created>1661064441327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661064441327</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="건조기 데이터 추가" />
+    <MESSAGE value="건조기 이미지 변경" />
+    <MESSAGE value="이상한 코드 수정" />
+    <MESSAGE value="Dryer 단독 선택시 선택 안되도록 수정" />
+    <MESSAGE value="oven 추가시 오류나는 부분 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="oven 추가시 오류나는 부분 수정" />
+  </component>
+</project>

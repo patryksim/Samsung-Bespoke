@@ -1,0 +1,9 @@
+{
+  "prettier.enable": false,
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/f08bf118-4082-4437-a698-252b1d9fae80/resourceGroups/lift/providers/Microsoft.Web/sites/BEspoke-lift",
+  "appService.deploySubpath": "tablet\\dist"
+}
