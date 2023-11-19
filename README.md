@@ -50,4 +50,8 @@ yarn build
 - **feature/85-inch-monitor**: Rama de la versión de 85 pulgadas de Bespoke.
 - **feature/sena**: Rama para la configuración de 43 pulgadas en español.
 - **feature/smartthings**: Rama de SmartThings.
+---
 
+© 2021 CHI Technologies & Solutions. Todos los derechos reservados.
+
+Contáctanos: [contacto@chi.com.pa](mailto:contacto@chi.com.pa) | [patricia.hung@chi.com.pa](mailto:patricia.hung@chi.com.pa)
