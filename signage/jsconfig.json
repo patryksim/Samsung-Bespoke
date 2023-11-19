@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "baseUrl": "./",
+    "moduleResolution": "node",
+    "paths": {
+      "@/*": ["src/*"],
+      "@styles*": ["src/styles/*"],
+      "@stComponents*": ["src/components/smartthings/*"],
+      "@stViews*": ["src/views/smartthings/*"],
+    },
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"]
+  }
+}
